@@ -24,7 +24,8 @@ Feel free to taste my studies references. :wink: :blush:
 ## :sparkles: Features
 
 :heavy_check_mark: Arrow Functions;\
-:heavy_check_mark: Rest, Spread and Destructuring;
+:heavy_check_mark: Rest, Spread;\
+:heavy_check_mark: Destructuring;
 
 Made with :heart: by <a href="https://github.com/luis-jr-zembruski" target="_blank">Luís Jr. R. Zembruski</a>
 
